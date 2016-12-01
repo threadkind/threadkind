@@ -126,13 +126,14 @@ header img {
     position: absolute;
     top: 30px; right:0;
     background: white;
+		z-index: 10;
   }
 .open {
-  height: 470px;
+  height: 480px;
   }
 
   @media print {
-  img {
+  .recipepic {
     display: none !important;
   }
 
