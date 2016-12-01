@@ -80,12 +80,16 @@ section, article img, .printMe {
 	margin-top: 2%;
 	float: left;
 	width: 100%;
+	cursor: pointer;
 }
 .recipethumb {
 	width: 28%;
 	float: left;
 	padding: 2%;
 	margin: 2% auto;
+}
+.recipeclosed {
+	display: none;
 }
 @media only screen and (max-width: 768px) {
 
