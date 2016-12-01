@@ -103,7 +103,7 @@ header img {
 .line {
 	border-bottom: 4px solid rgb(130,196,157);
 	width: 35px;
-	margin-bottom: 6px; 
+	margin-bottom: 6px;
 }
 .line:last-child {
 	margin-bottom: 0;
@@ -126,7 +126,7 @@ header img {
     position: absolute;
     top: 30px; right:0;
     background: white;
-  }  
+  }
 .open {
   height: 470px;
   }
